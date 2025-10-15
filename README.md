@@ -38,8 +38,8 @@ A powerful command-line calculator built with Rust, featuring advanced expressio
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cli-calculator.git
-cd cli-calculator
+git clone https://github.com/EEFnik/01-cll-calculator.git
+cd 01-cll-calculator
 
 # Build the project
 cargo build --release
